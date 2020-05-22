@@ -1,4 +1,4 @@
-# peoplecount
+# TooManyPeopleCount
 
 ![Image description](https://i.ibb.co/rkN0TqZ/Capture-d-e-cran-2020-05-20-a-20-57-34.png)
 
