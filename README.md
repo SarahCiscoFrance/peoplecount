@@ -9,7 +9,7 @@ This is a proof of concept using the Webex video endpoint peoplecount function t
 
 ### How to use it
 - Macro code speaks for itself: 
-set **maxPeople** to room capacity, **alertDuration** to number of seconds the alert is shown and **OPTION** to set alert type choose ``1`` if you want to active the digital signage mode (in order to display the web page you set in the **url**) or ``2`` if you just want to display simple alert without the web page.
+set **maxPeople** to room capacity, **alertDuration** to number of seconds the alert is shown and **OPTION** to set alert type : choose ``1`` if you want to active the digital signage mode (in order to display the web page you set in the **url**) or ``2`` if you just want to display simple alert without the web page.
 
 - For the macro to work, set PeopleCountOutOfCall and PeoplePresenceDetector to TRUE in Setup->Configuration->RoomAnalytics.
 
