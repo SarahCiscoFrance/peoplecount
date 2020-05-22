@@ -3,7 +3,7 @@
 ![Image description](https://i.ibb.co/rkN0TqZ/Capture-d-e-cran-2020-05-20-a-20-57-34.png)
 
 ### What is it ?
-Webex Room device people counter - alerts when room is too full and display (4 seconds after the alert is triggered) a web page that you can set in the macro (see **How to use it** part below)
+Webex Room device people counter - alerts when room is too full and also display (4 seconds after the alert is triggered) a web page that you can set in the macro (see **How to use it** part below)
 
 This is a proof of concept using the Webex video endpoint peoplecount function to alert when more than a given number of people in view. The alert will also work when the board is in half-wake state. Technically you could show the number of people detected but I chose not to do that in the alert.
 
