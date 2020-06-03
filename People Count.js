@@ -6,7 +6,7 @@
 // v0.3       (rudferna@cisco.com) Digital signage
 const xapi = require('xapi');
 const OPTION = 1; // 1: For DIGITAL SIGNAGE OR 2: For ALERT MESSAGE  <== CHANGE HERE OPTIONS
-const url = "https://www.wired.com/story/elegant-mathematics-social-distancing/"; // url of the web page that will be displayed
+const url = "https://i.ibb.co/djcLtZY/Capture-d-e-cran-2020-06-03-a-18-19-56.png"; // url of the web page that will be displayed
 xapi.config.set("Standby Signage Mode", "On");
 xapi.config.set("WebEngine Mode", "On");
 
