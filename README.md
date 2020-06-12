@@ -7,6 +7,8 @@ Webex Room device people counter - alerts when room is too full and also display
 
 This is a proof of concept using the Webex video endpoint peoplecount function to alert when more than a given number of people in view. The alert will also work when the board is in half-wake state. Technically you could show the number of people detected but I chose not to do that in the alert.
 
+![Image description](https://i.ibb.co/BVTDJBr/Capture-d-e-cran-2020-06-12-a-15-22-11.png)
+
 ### How to use it
 - Macro code speaks for itself: 
 set **maxPeople** to room capacity, **alertDuration** to number of seconds the alert is shown and **OPTION** to set alert type : choose ``1`` if you want to active the digital signage mode (in order to display the web page you set in the **url**) or ``2`` if you just want to display simple alert without the web page.
